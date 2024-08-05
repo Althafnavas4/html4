@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+p{
+    margin: 20px;
+    padding: 10px;
+}
+.container{
+    background-color: aqua;
+    width: 80vw;
+    height: 50vh;
+    margin: 5px;
+}
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    color: white;
+    margin: 10px;
+    /*position: relative;*/
+   /* position: static;*/
+   /*position: fixed;*/
+   /*position: sticky;*/
+   position: absolute;
+   top: 20px;
+}
